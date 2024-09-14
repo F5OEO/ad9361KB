@@ -4,7 +4,9 @@ This documentation aims to describe some notes about platforms like PlutoSDR and
 ## Lamableu tricks
 ![RAMB-RSP_137M_20240818_14h_waterfall](https://github.com/user-attachments/assets/b7cacef6-6d5d-46b8-8e2c-9509235a39c3)
 ## F5OEO dirty files
+### Unboxing sdr clone
 ![20240913_121619](https://github.com/user-attachments/assets/b62e3ee2-5771-400d-a8fa-233f2c4623fb)
+### Low cost compared to orginal one 
 ![aliexpress_pluto](https://github.com/user-attachments/assets/5ee78581-ec03-4a77-bdac-c8b842ce637a)
 ![iio_pluto](https://github.com/user-attachments/assets/2479fffd-c340-47e2-8b52-cdfda0681fe9)
 ![info_html_pluto](https://github.com/user-attachments/assets/a66a2ea5-f68d-473a-9400-3457d1112c1e)
